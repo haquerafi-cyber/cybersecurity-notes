@@ -4,7 +4,7 @@
 
 **Hydra**
 
-হলো একটি **network logon brute-force tool.**
+হলো একটি **network login brute-force tool.**
 
 এটা দিয়ে বিভিন্ন **protocol login** brute force করা যায়।
 
